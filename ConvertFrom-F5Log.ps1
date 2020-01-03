@@ -52,14 +52,14 @@ function ConvertFrom-F5Log {
     .OUTPUTS
         System.Object
     .NOTES
-        #######################################################################################
-        Author:     State of Oregon, Enterprise Security Office, Cybersecurity Assessment Team
+        ###########################################################################################
+        Author:     State of Oregon, Enterprise Information Services, Cybersecurity Assessment Team
         Version:    1.0
-        #######################################################################################
+        ###########################################################################################
         License:    https://unlicense.org/UNLICENSE
-        #######################################################################################
+        ###########################################################################################
     .LINK
-        https://github.com/oregon-eso-cyber-assessments
+        https://github.com/stateoforegon-eis-css/F5LogTools
     .FUNCTIONALITY
         Converts F5 log files into powershell objects.
     #>
