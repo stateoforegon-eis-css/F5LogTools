@@ -15,7 +15,7 @@ if (-not (Test-Path -Path $F5LogTools)) {
 
 }
 
-git clone https://github.com/oregon-eso-cyber-assessments/F5LogTools.git $F5LogTools
+git clone https://github.com/stateoforegon-eis-css/F5LogTools.git $F5LogTools
 
 Import-Module $F5LogTools
 
